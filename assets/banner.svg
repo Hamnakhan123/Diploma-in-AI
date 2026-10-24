@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#1e3a8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#g)"/>
+  <g stroke="#38bdf8" stroke-opacity="0.35" stroke-width="2">
+    <line x1="880" y1="70" x2="1000" y2="140"/><line x1="1000" y1="140" x2="1110" y2="80"/>
+    <line x1="1000" y1="140" x2="960" y2="240"/><line x1="1000" y1="140" x2="1100" y2="220"/>
+    <line x1="880" y1="70" x2="960" y2="240"/>
+  </g>
+  <g fill="#38bdf8">
+    <circle cx="880" cy="70" r="9"/><circle cx="1000" cy="140" r="13"/><circle cx="1110" cy="80" r="8"/>
+    <circle cx="960" cy="240" r="9"/><circle cx="1100" cy="220" r="7"/>
+  </g>
+  <text x="70" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">Diploma in AI</text>
+  <text x="72" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#cbd5e1">Data Science Foundations · Artificial Intelligence</text>
+  <text x="72" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#94a3b8">Prepared by Hamna Zahid Khan, Junior Lecturer</text>
+</svg>
