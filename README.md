@@ -38,12 +38,12 @@ flowchart LR
 
 ## Contents
 
-### Term 1 · Data Science Foundations
+### [Term 1 · Data Science Foundations](term-1/README.md)
 
 | # | Module | Hours | Sessions | Status |
 |---|---|---|---|---|
 | 1 | [Data Handling using T-SQL](term-1/01-data-handling-using-t-sql/) | 16 | 6 | ✅ Ready |
-| 2 | Managing Large Datasets with MongoDB | 32 | 12 | 🕒 Coming soon |
+| 2 | [Managing Large Datasets with MongoDB](term-1/02-managing-large-datasets-with-mongodb/) | 32 | 12 | ✅ Ready |
 | 3 | Inferential Statistical Analysis | 16 | 6 | 🕒 Coming soon |
 | 4 | Application Based Programming in Python | 36 | 15 | 🕒 Coming soon |
 | 5 | Data Science with Python | 36 | 15 | 🕒 Coming soon |
