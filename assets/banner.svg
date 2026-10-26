@@ -1,20 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Diploma in AI - Prepared by Hamna Zahid Khan">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#1e3a8a"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0716"/><stop offset="1" stop-color="#1A1030"/>
     </linearGradient>
+    <linearGradient id="fire" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF6B1A"/><stop offset="0.5" stop-color="#FCD34D"/><stop offset="1" stop-color="#F43F5E"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.3 0;0.3 0;-0.3 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF6B1A" stop-opacity="0.55"/><stop offset="1" stop-color="#FF6B1A" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="1200" height="300" fill="url(#g)"/>
-  <g stroke="#38bdf8" stroke-opacity="0.35" stroke-width="2">
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <circle cx="990" cy="150" r="140" fill="url(#glow)">
+    <animate attributeName="r" values="125;150;125" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <g stroke="#A78BFA" stroke-opacity="0.5" stroke-width="2">
     <line x1="880" y1="70" x2="1000" y2="140"/><line x1="1000" y1="140" x2="1110" y2="80"/>
     <line x1="1000" y1="140" x2="960" y2="240"/><line x1="1000" y1="140" x2="1100" y2="220"/>
     <line x1="880" y1="70" x2="960" y2="240"/>
   </g>
-  <g fill="#38bdf8">
-    <circle cx="880" cy="70" r="9"/><circle cx="1000" cy="140" r="13"/><circle cx="1110" cy="80" r="8"/>
-    <circle cx="960" cy="240" r="9"/><circle cx="1100" cy="220" r="7"/>
+  <g fill="#FCD34D">
+    <circle cx="880" cy="70" r="7"><animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="140" r="11" fill="#FF6B1A"><animate attributeName="r" values="10;13;10" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1110" cy="80" r="6"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="960" cy="240" r="7" fill="#F43F5E"><animate attributeName="opacity" values="1;0.5;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1100" cy="220" r="6" fill="#A78BFA"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.4s" repeatCount="indefinite"/></circle>
   </g>
-  <text x="70" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">Diploma in AI</text>
-  <text x="72" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#cbd5e1">Data Science Foundations · Artificial Intelligence</text>
-  <text x="72" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#94a3b8">Prepared by Hamna Zahid Khan, Junior Lecturer</text>
+  <text x="70" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="66" font-weight="800" fill="url(#fire)">Diploma in AI</text>
+  <text x="72" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#F5EEFF">Data Science Foundations · Artificial Intelligence</text>
+  <text x="72" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#A78BFA">Prepared by Hamna Zahid Khan, Junior Lecturer</text>
 </svg>
