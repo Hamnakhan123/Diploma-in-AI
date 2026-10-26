@@ -1,0 +1,23 @@
+date,roll,name,status,minutes_late
+2026-10-05,AI-01,Ali Khan,P,0
+2026-10-05,AI-02,Sana Tariq,P,5
+2026-10-05,AI-03,Bilal Ahmed,A,
+2026-10-05,AI-04,Hira Shah,P,0
+2026-10-06,AI-01,Ali Khan,P,12
+2026-10-06,AI-02,Sana Tariq,p,0
+2026-10-06,AI-03,Bilal Ahmed,P,ten
+2026-10-06,AI-04,Hira Shah,L,0
+2026-10-07,AI-01,Ali Khan,A,
+2026-10-07,AI-02,Sana Tariq,P,0
+2026-10-07,AI-03,Bilal Ahmed,P,3
+2026-10-07,AI-04,Hira Shah,P,0
+2026-10-07,AI-05,,P,0
+2026-10-08,AI-01,Ali Khan,P,0
+2026-10-08,AI-02,Sana Tariq,P,0
+2026-10-08,AI-03,Bilal Ahmed,A,
+2026-10-08,AI-04,Hira Shah
+2026-10-09,AI-01,Ali Khan,P,0
+2026-10-09,AI-02,Sana Tariq,P,25
+2026-10-09,AI-03,Bilal Ahmed,P,0
+2026-10-09,AI-04,Hira Shah,P,0
+2026-13-09,AI-04,Hira Shah,P,0
