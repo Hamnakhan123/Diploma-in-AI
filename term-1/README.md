@@ -19,7 +19,7 @@ Term 1 builds everything an AI practitioner needs before training a model: getti
 | 1 | [Data Handling using T-SQL](01-data-handling-using-t-sql/) | 16 | 6 | ✅ Ready |
 | 2 | [Managing Large Datasets with MongoDB](02-managing-large-datasets-with-mongodb/) | 32 | 12 | ✅ Ready |
 | 3 | [Inferential Statistical Analysis](03-inferential-statistical-analysis/) | 16 | 6 | ✅ Ready |
-| 4 | Application Based Programming in Python | 36 | 15 | 🕒 Coming soon |
+| 4 | [Application Based Programming in Python](04-application-based-programming-in-python/) | 36 | 15 | ✅ Ready |
 | 5 | Data Science with Python | 36 | 15 | 🕒 Coming soon |
 
 ## 🧭 How the modules connect
