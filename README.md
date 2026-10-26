@@ -45,7 +45,7 @@ flowchart LR
 | 1 | [Data Handling using T-SQL](term-1/01-data-handling-using-t-sql/) | 16 | 6 | ✅ Ready |
 | 2 | [Managing Large Datasets with MongoDB](term-1/02-managing-large-datasets-with-mongodb/) | 32 | 12 | ✅ Ready |
 | 3 | [Inferential Statistical Analysis](term-1/03-inferential-statistical-analysis/) | 16 | 6 | ✅ Ready |
-| 4 | Application Based Programming in Python | 36 | 15 | 🕒 Coming soon |
+| 4 | [Application Based Programming in Python](term-1/04-application-based-programming-in-python/) | 36 | 15 | ✅ Ready |
 | 5 | Data Science with Python | 36 | 15 | 🕒 Coming soon |
 
 ### Term 2 · Artificial Intelligence
