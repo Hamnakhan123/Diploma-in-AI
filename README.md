@@ -44,7 +44,7 @@ flowchart LR
 |---|---|---|---|---|
 | 1 | [Data Handling using T-SQL](term-1/01-data-handling-using-t-sql/) | 16 | 6 | ✅ Ready |
 | 2 | [Managing Large Datasets with MongoDB](term-1/02-managing-large-datasets-with-mongodb/) | 32 | 12 | ✅ Ready |
-| 3 | Inferential Statistical Analysis | 16 | 6 | 🕒 Coming soon |
+| 3 | [Inferential Statistical Analysis](term-1/03-inferential-statistical-analysis/) | 16 | 6 | ✅ Ready |
 | 4 | Application Based Programming in Python | 36 | 15 | 🕒 Coming soon |
 | 5 | Data Science with Python | 36 | 15 | 🕒 Coming soon |
 
@@ -62,8 +62,9 @@ flowchart LR
 ## How to use this repository
 
 1. Open a module folder and start with its `README.md`.
-2. Read the sessions in order; each one points to its scripts in `code/`.
-3. Finish with the module's `practice-test.md`.
+2. Read the sessions in order; each one points to its runnable scripts in `code/` (see each module's `code/README.md`), and Python sessions have an **Open in Colab** notebook with saved output.
+3. Do the lab tasks (hints and solutions are hidden in collapsible blocks) and the 5-question quiz.
+4. Finish with the module's `practice-test.md` (20 MCQs + 3 scenarios).
 
 ---
-<sub>Prepared by Hamna Zahid Khan.</sub>
+<sub>Prepared by **Hamna Zahid Khan**, Junior Lecturer · Diploma in AI</sub>
